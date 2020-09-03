@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test filesafwfe
+=======
+Test file123sfw
+>>>>>>> NewBranch
